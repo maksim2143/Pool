@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pool", "Pool\Pool.csproj", "{10DA62A6-2D0C-4260-BAF0-B9648031486E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoolTask", "PoolTask\PoolTask.csproj", "{FDD5879D-6D3B-4753-8BC6-FDC641826826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10DA62A6-2D0C-4260-BAF0-B9648031486E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DA62A6-2D0C-4260-BAF0-B9648031486E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DA62A6-2D0C-4260-BAF0-B9648031486E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DA62A6-2D0C-4260-BAF0-B9648031486E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD5879D-6D3B-4753-8BC6-FDC641826826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD5879D-6D3B-4753-8BC6-FDC641826826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD5879D-6D3B-4753-8BC6-FDC641826826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD5879D-6D3B-4753-8BC6-FDC641826826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA268833-AAC1-454B-8308-D492EADE010B}
+	EndGlobalSection
+EndGlobal
